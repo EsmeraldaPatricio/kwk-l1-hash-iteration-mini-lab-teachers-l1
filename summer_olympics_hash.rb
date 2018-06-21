@@ -1,5 +1,10 @@
 
 def create_olympics_hash
+  summer_olympics={
+  :Sydney => "2000"
+  
+  }
+  
   # Implement this method so that it returns a hash with the data provided on README.md
 end
 
